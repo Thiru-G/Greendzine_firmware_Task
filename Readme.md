@@ -1,6 +1,6 @@
-#FIRMWARE ASSIGNMENT
+# FIRMWARE ASSIGNMENT
 
-#Problem statement:
+## Problem statement:
 Develop the code in Arduino to interface an LM35 temperature
 sensor (Assume the sensor is connected to Arduino Analog pin A0) with an Arduino
 Uno and control the onboard LED based on temperature readings:
@@ -11,7 +11,7 @@ blink every 250 milliseconds.
 every 500 milliseconds.
 Note :- You are not supposed use Millis(), delay() and micros() function and you can
 use any library to perform this task.
-#Expected Output:
+## Expected Output:
 Complied Source code uploaded in GitHub (Share the link).
 #Evaluation Criteria:
 1. Working code that’s running in Arduino IDE.
